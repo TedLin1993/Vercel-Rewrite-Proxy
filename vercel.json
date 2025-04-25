@@ -14,7 +14,7 @@
     },
     {
       "source": "/xai/:match*",
-      "destination": "https://api.x.ai/:match*"
+      "destination": "https://gateway.ai.cloudflare.com/v1/f0cf586d09d52d6f10087b476ceb4c82/gateway/grok/:match*"
     },
     {
       "source": "/groq/:match*",
